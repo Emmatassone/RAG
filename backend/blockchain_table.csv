@@ -1,0 +1,4 @@
+ID,Owner,Holder,Hydrogen Type,Asset State,Quantity
+0,producer, consumer,producer, transporter, consumer,green,utilized,111
+1,producer, consumer,producer, transporter,pink,H2,112
+2,producer, consumer,producer, transporter, consumer,yellow,H2,100
