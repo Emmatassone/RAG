@@ -1,3 +1,7 @@
+__pycache__/
 LLM_API_KEY.yml
 /frontend/node_modules/
 .ipynb_checkpoints
+langchain/data/
+langchain/.env
+langchain/traceability_chromadb/
